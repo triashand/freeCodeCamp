@@ -156,3 +156,22 @@ This will produce the following result -
 ```
    The substring was found!
 ```
+
+### Using the strtoupper() function
+The strtoupper() function is used to capitalize a string.
+
+for example : -
+
+```
+   <?php
+      $test = "hello world";
+      $testcapital = strtoupper($test);
+      
+      echo $testcapital;
+   ?>
+```
+
+output :
+```
+   HELLO WORLD
+```
