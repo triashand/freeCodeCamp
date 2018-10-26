@@ -20,3 +20,6 @@ PascalCase (or CamelCase) is a variant of camelCase. It differs from camelCase b
 Another popular case called snake_case separates each word with underscores in this manner:
 
     var snake_case = "lower-case everything, but separate words with underscores";
+```
+Variable that start with an underscore generally refer to private properties and methods.
+```
