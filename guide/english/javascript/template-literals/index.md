@@ -2,7 +2,7 @@
 title: Template Literals
 ---
 
-Template Literals are an ES6 feature utilizing the backtick charater to define a string value
+Template Literals are an ES6 feature utilizing the backtick ' charater to define a string value
 
 ### The basic syntax
 
@@ -20,11 +20,12 @@ const tempLit = `Simple string`
 let tempLitWithVariables = `Simple string with a ${variable}...`
 
 // ES6 multiple line template literal 
+// Template Literals can also containt line break (\n)
 const multiLineString = `
   Multiple 
   Lines 
   Allowed
 `
-```
 
+```
 
